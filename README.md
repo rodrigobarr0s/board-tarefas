@@ -173,7 +173,7 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 
 ## Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto está licenciado sob a [MIT License](https://github.com/rodrigobarr0s/board-tarefas/blob/main/LICENSE).
 
 ## Autor
 
